@@ -1,0 +1,8 @@
+B 1 1 2018 24000.00 Toyota Corolla
+P 3 3 2016 28000.00 Honda Accord
+B 2 3 2019 26000.00 Ford Mustang
+P 3 2 2025 45000.00 Lexus RZ
+P 3 1 2021 35000.00 Hyundai Ioniq5
+B 4 2 2017 20000.00 Nissan Altima
+
+
